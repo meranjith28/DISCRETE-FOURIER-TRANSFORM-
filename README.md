@@ -2,6 +2,7 @@
 
 # AIM: 
 
+
 # To Obtain DFT and FFT of a given sequence in SCILAB. 
 
 # APPARATUS REQUIRED: 
